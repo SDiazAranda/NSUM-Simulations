@@ -1,7 +1,7 @@
 
 # hpdistrib = 'uniform'
 hpdistrib = 'sir'
-net = 'sw'
+# net = 'sw'
 net='pa'
 #########################################################
 source('~/GitHub/NSUM-Simulations/data/initial data/initial_data.R')
